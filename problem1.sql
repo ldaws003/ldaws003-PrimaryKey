@@ -1,5 +1,5 @@
-CREATE TABLE song(
+CREATE TABLE SONG(
   id SERIAL PRIMARY KEY,
   Title varchar(255),
-  rtist varchar(255),
+  Artist varchar(255),
 );
